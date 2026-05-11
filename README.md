@@ -49,7 +49,10 @@ a.   KVL:
 
 
 b.  KCL:
-<img width="933" height="605" alt="image" src="https://github.com/user-attachments/assets/3a9f0712-9ca7-452c-84fd-95b5d8069322" />
+
+<img width="888" height="372" alt="image" src="https://github.com/user-attachments/assets/f92bcc85-926a-4fde-97fa-48a5e250c15a" />
+
+
 
  
 
